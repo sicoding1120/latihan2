@@ -11,6 +11,8 @@ const power = (a: number, b: number) => {
   return a ** b;
 };
 
+console.log(power(2,3));
+
 
 // soal 3
 
